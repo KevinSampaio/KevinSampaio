@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on JS, HTML, CSS<br><br>🤝 I'm looking for studious friends<br><br>🌱 I am currently focused on graduating<br><br>⚡ Curiosity I'm extremely passionate about my girlfriend
+🔭 Atualmente trabalho com JS, HTML, CSS<br><br>🤝 Procuro amigos estudiosos<br><br>🌱 Atualmente estou focado em me formar<br><br>⚡ Curiosidade sou extremamente apaixonado pela minha namorada
 
 
 ## 🌐 Socials:
