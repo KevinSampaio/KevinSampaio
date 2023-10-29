@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 Atualmente trabalho com JS, HTML, CSS<br><br>🤝 Procuro amigos estudiosos<br><br>🌱 Atualmente estou focado em me formar<br><br>⚡ Curiosidade sou extremamente apaixonado pela minha namorada
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=95&section=header&animation=scaleIn"/>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A92C0&random=false&width=435&lines=Hello+my+name+is+Gabriel+Guedes;I'm+19+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP;I+attend+to+SPTECH;I+am+studying+System+Development;I+hope+you'll+enjoy+my+profile!" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
